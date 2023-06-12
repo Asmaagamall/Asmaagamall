@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Asmaa Gamal</h1>
-<h3 align="center">A passionate Flutter developer from Egypt</h3>
+<h3 align="center"> Mobile developer from Egypt</h3>
 
-- :school: I am a `Senior` at Faculty of Computers & Information at Misr Higher Institute for Commerce & Computers
-- 🌱 I’m currently learning `Flutter`
+- :school: I `graduated` from Faculty of Computers & Information at Misr Higher Institute for Commerce & Computers
 
 - 📫 How to reach me **gasmaa083@gmail.com**
 
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1oMFZzeWSWc5drXG8VmEtUYiFwhDpFB7Q/view?usp=sharing).
+- This is [MY RESUME]([https://drive.google.com/file/d/1oMFZzeWSWc5drXG8VmEtUYiFwhDpFB7Q/view?usp=sharing](https://drive.google.com/file/d/1HSULMWlOkxhcVGxLAqaKOKP5GxyGUZyZ/view?usp=sharing)).
 
 ## 📩 Connect with me
 <p align="center">
